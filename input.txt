@@ -1,0 +1,14 @@
+1001,Alice,Bob,1,1,01-01-2022,Submitted,90.0,-1,Arrays
+1002,Bob,Alice,1,1,20-02-2023,Submitted,85.0,-1,Arrays
+1003,Charlie,David,2,1,20-02-2023,Evaluated,80.0,95.0,Arrays
+1004,David,Charlie,2,1,20-02-2023,Evaluated,95.0,80.0,Arrays
+1005,Emma,Frank,3,2,20-02-2023,Not Submitted,-1,-1,Stacks
+1006,Frank,Emma,3,2,20-02-2023,Not Submitted,-1,-1,Stacks
+1007,George,Hannah,4,2,20-04-2023,Not Submitted,-1,-1,Stacks
+1008,Hannah,George,4,2,20-02-2023,Not Submitted,-1,-1,Stacks
+1009,Isaac,Julia,5,3,20-02-2023,Not Submitted,-1,-1,Trees
+1010,Julia,Isaac,5,3,20-02-2023,Not Submitted,-1,-1,Trees
+1011,Kevin,Lena,6,3,20-02-2023,Submitted,-1,-1,Trees
+1012,Lena,Kevin,6,3,20-02-2023,Submitted,-1,-1,Trees
+1013,Mike,Nancy,7,3,20-02-2023,Evaluated,75.0,80.0,Trees
+1014,Nancy,Mike,7,3,20-02-2023,Evaluated,90.0,87.5,Trees
